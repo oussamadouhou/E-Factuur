@@ -1,5 +1,5 @@
-*
-!locales
-!scripts.js
-!jquery-ui.js
-!.gitignore
+#*
+#!locales
+#!scripts.js
+#!jquery-ui.js
+#!.gitignore
